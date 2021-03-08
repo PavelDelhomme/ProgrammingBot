@@ -1,0 +1,40 @@
+{
+  "prefix": [
+    "do "
+  ],
+  "owner": [
+    664535469622689837
+  ],
+  "REDDIT_APP_ID": [
+    "-3cRCeG8hEpPog"
+  ],
+  "REDDIT_APP_SECRET": [
+    "Gy_mDxV5sQ9c2wvNc0Ck6DBa54-SSw"
+  ],
+  "REDDIT_ENABLE_MEME_SUBREDDITS": [
+    "funny",
+    "memes",
+    "jokes"
+  ],
+  "REDDIT_ENABLED_NSFW_SUBREDDITS": [
+    "wtf"
+  ],
+  "REDDIT_ENABLED_SERIOUS_SEBREDDITS": [
+    "news",
+    "worldnews"
+  ],
+  "REDDIT_ENABLED_OTHER_SUBREDDITS": [
+        "pics",
+        "movies",
+        "aww",
+        "todayilearnd",
+        "sciences",
+        "politics",
+        "gamin",
+        "minecraft"
+  ],
+  "MODERATOR_ROLE_NAME":
+    "Administrator"
+
+
+}
